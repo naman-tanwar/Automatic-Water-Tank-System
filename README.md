@@ -1,0 +1,2 @@
+# Automatic-Water-Tank-System
+Many common houses in India has mainly two sources of water to fill there rooftop tank, namely, an underground storage tank and municipal water supply. This project aims to fill the rooftop tank without any human intervention thereby reducing the wastage of water. The project will automatically decide which source to be used to fill the tank based on the availability.
