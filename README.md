@@ -1,4 +1,5 @@
 # Automatic-Water-Tank-System
+A system to fill water based on the two available sources (Municipal and underground storage) to reduce the wastage of water and improve the user’s quality of life. 
 
 ### Demonstration Video : https://www.youtube.com/watch?v=MYhJQ0k04Xk
 
